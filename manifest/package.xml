@@ -4,10 +4,7 @@
 		<members>vlocity_cmt__OrchestrationItemDefinition__c</members>
 		<name>CustomObject</name>
 	</types>
-    <types>
-        <members>Schedule_Orchestration_Item</members>
-        <name>FlowDefinition</name>
-    </types>
+
     <types>
         <members>Schedule_Orchestration_Item</members>
         <name>Flow</name>
